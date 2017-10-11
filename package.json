@@ -1,0 +1,27 @@
+{
+  "name": "gextcont",
+  "version": "1.0.0",
+  "description": "Build a node app to add external contacts to Google Domain Directory based on this documentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amjad-desai/Google-external-contact.git"
+  },
+  "keywords": [
+    "google",
+    "external",
+    "contact"
+  ],
+  "author": "Amjad Desai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amjad-desai/Google-external-contact/issues"
+  },
+  "homepage": "https://github.com/amjad-desai/Google-external-contact#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
